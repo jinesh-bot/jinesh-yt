@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+header{
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    height: 56px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+.ham{
+    width: 24px;
+    height: 24px;
+    padding-left: 23px;
+}
+.logo{
+    width: 93px;
+    height: 20px;
+    padding-left: 25px;
+}
+.acc{
+    border-radius: 53px;
+    width: 32px;
+    height: 32px;
+    margin-right: 31px;
+}
+.right-box{
+    width: 164px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.middle-box{
+    width: 732px;
+    height: 40px;
+    align-items: center;
+    display: flex;
+}
+.words{
+    width: 515.2px;
+    height: 38.4px;
+    border-radius: 20px 0px 0px 20px;
+    border-width: 1px;
+    margin-left: 46px;
+     padding-left: 19px;
+     border: 1px#bfc1c5 solid;
+     font-size: medium;
+
+}
+.lens{
+    height: 39px;
+    width: 64px;
+    background-color: transparent;
+    border-radius: 0px 20px 20px 0px;
+    margin-left: -1px;
+    border-width: 1px;
+    border: 1px#bfc1c5 solid;
+}
+.left.box{
+    width: 169px;
+    height: 56px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.mic{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 36px;
+    border: 0px;
+}

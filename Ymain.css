@@ -1,0 +1,77 @@
+.topof-main{
+   
+    top:56px;
+    left: 239px;
+    height: 56px;
+    width: 1280px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    
+
+}
+.suggestions{
+   align-items: center;
+    font-size: 14px;
+    border-radius: 10px;
+    font-weight: lighter;
+    line-height: 18px;
+    color:#0F0F0F;
+   margin-left: 25px;
+    padding-left: 10px;
+    background-color: #e7e4e4;
+    display: inline-flex;
+}
+#all{
+    height: 32px;
+    width: 40px;
+   align-items: center;
+    
+}
+#gam{
+    height: 32px;
+width: 72.6px;
+align-items: center;
+}
+#podo{
+    height: 32px;
+width: 82.75px;
+align-items: center;
+}
+#web{
+    height: 32px;
+width: 136.475px;
+align-items: center;
+}
+#podo{
+    height: 32px;
+width: 83px;
+align-items: center;
+}
+#mus{
+    height: 32px;
+width: 62.175px;
+align-items: center;
+
+}
+#new{
+    height: 32px;
+    width: 59.0875px;
+    align-items: center;
+}
+.swing{
+    display: inline-flex;
+    margin-left: 25px;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    background-color: #e7e4e4;
+    border-radius: 20px;
+margin-top: 5px; 
+}
+#arr{
+    padding-left: 7px;
+    margin-top:-3px;
+}
